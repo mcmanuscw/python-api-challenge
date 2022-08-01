@@ -130,7 +130,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Secrets
-config.py
+# Adding config.py file.
 api_keys.py
-
+API_practice.ipynb
+random_numbers.ipynb
